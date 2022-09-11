@@ -3,7 +3,11 @@ Flutter webview plugin to demonstrate hosting platform view in android and iOS
 =======
 # web_view
 
-A new Flutter project.
+# Demo
+| **Android Demo** | **IOS Demo** |
+| :------------: | :------------: |   
+| <img src="https://cdn-images-1.medium.com/max/1000/1*W7zhtGjMDnyRzeNPORdzqA.gif" width="200" height="400" /> | <img src="https://cdn-images-1.medium.com/max/1000/1*Scuk0E2OJpzF0UbEoik_3A.gif" width="200" height="400" /> |
+
 
 ## Getting Started
 
