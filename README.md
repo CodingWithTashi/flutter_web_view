@@ -1,6 +1,7 @@
 # flutter_web_view
-Flutter webview plugin to demonstrate hosting platform view in android and iOS
-=======
+## Flutter webview plugin to demonstrate hosting platform view in android and iOS
+## Medium blog
+Check out from [here](https://medium.com/flutter-community/flutter-platformview-how-to-host-native-android-and-ios-view-in-flutter-79259faebd91)
 # web_view
 
 # Demo
